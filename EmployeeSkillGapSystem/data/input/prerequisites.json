@@ -1,0 +1,1196 @@
+[
+  {
+    "prerequisite_id": "PRE-000001",
+    "course_id": "CRS-000011",
+    "prerequisite_course_id": "CRS-000001",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000002",
+    "course_id": "CRS-000012",
+    "prerequisite_course_id": "CRS-000004",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000003",
+    "course_id": "CRS-000015",
+    "prerequisite_course_id": "CRS-000014",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000004",
+    "course_id": "CRS-000019",
+    "prerequisite_course_id": "CRS-000011",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000005",
+    "course_id": "CRS-000024",
+    "prerequisite_course_id": "CRS-000008",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000006",
+    "course_id": "CRS-000025",
+    "prerequisite_course_id": "CRS-000009",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000007",
+    "course_id": "CRS-000030",
+    "prerequisite_course_id": "CRS-000022",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000008",
+    "course_id": "CRS-000034",
+    "prerequisite_course_id": "CRS-000001",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000009",
+    "course_id": "CRS-000040",
+    "prerequisite_course_id": "CRS-000006",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000010",
+    "course_id": "CRS-000049",
+    "prerequisite_course_id": "CRS-000024",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000011",
+    "course_id": "CRS-000051",
+    "prerequisite_course_id": "CRS-000022",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000012",
+    "course_id": "CRS-000057",
+    "prerequisite_course_id": "CRS-000046",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000013",
+    "course_id": "CRS-000060",
+    "prerequisite_course_id": "CRS-000036",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000014",
+    "course_id": "CRS-000070",
+    "prerequisite_course_id": "CRS-000008",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000015",
+    "course_id": "CRS-000083",
+    "prerequisite_course_id": "CRS-000039",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000016",
+    "course_id": "CRS-000088",
+    "prerequisite_course_id": "CRS-000080",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000017",
+    "course_id": "CRS-000089",
+    "prerequisite_course_id": "CRS-000006",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000018",
+    "course_id": "CRS-000094",
+    "prerequisite_course_id": "CRS-000024",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000019",
+    "course_id": "CRS-000095",
+    "prerequisite_course_id": "CRS-000019",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000020",
+    "course_id": "CRS-000101",
+    "prerequisite_course_id": "CRS-000036",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000021",
+    "course_id": "CRS-000104",
+    "prerequisite_course_id": "CRS-000100",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000022",
+    "course_id": "CRS-000111",
+    "prerequisite_course_id": "CRS-000023",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000023",
+    "course_id": "CRS-000119",
+    "prerequisite_course_id": "CRS-000021",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000024",
+    "course_id": "CRS-000122",
+    "prerequisite_course_id": "CRS-000055",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000025",
+    "course_id": "CRS-000133",
+    "prerequisite_course_id": "CRS-000070",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000026",
+    "course_id": "CRS-000151",
+    "prerequisite_course_id": "CRS-000131",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000027",
+    "course_id": "CRS-000164",
+    "prerequisite_course_id": "CRS-000082",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000028",
+    "course_id": "CRS-000168",
+    "prerequisite_course_id": "CRS-000112",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000029",
+    "course_id": "CRS-000169",
+    "prerequisite_course_id": "CRS-000057",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000030",
+    "course_id": "CRS-000170",
+    "prerequisite_course_id": "CRS-000107",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000031",
+    "course_id": "CRS-000173",
+    "prerequisite_course_id": "CRS-000052",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000032",
+    "course_id": "CRS-000174",
+    "prerequisite_course_id": "CRS-000069",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000033",
+    "course_id": "CRS-000180",
+    "prerequisite_course_id": "CRS-000028",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000034",
+    "course_id": "CRS-000191",
+    "prerequisite_course_id": "CRS-000104",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000035",
+    "course_id": "CRS-000194",
+    "prerequisite_course_id": "CRS-000033",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000036",
+    "course_id": "CRS-000196",
+    "prerequisite_course_id": "CRS-000131",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000037",
+    "course_id": "CRS-000198",
+    "prerequisite_course_id": "CRS-000011",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000038",
+    "course_id": "CRS-000205",
+    "prerequisite_course_id": "CRS-000076",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000039",
+    "course_id": "CRS-000215",
+    "prerequisite_course_id": "CRS-000142",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000040",
+    "course_id": "CRS-000217",
+    "prerequisite_course_id": "CRS-000067",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000041",
+    "course_id": "CRS-000220",
+    "prerequisite_course_id": "CRS-000176",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000042",
+    "course_id": "CRS-000221",
+    "prerequisite_course_id": "CRS-000156",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000043",
+    "course_id": "CRS-000222",
+    "prerequisite_course_id": "CRS-000117",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000044",
+    "course_id": "CRS-000239",
+    "prerequisite_course_id": "CRS-000046",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000045",
+    "course_id": "CRS-000246",
+    "prerequisite_course_id": "CRS-000044",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000046",
+    "course_id": "CRS-000251",
+    "prerequisite_course_id": "CRS-000227",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000047",
+    "course_id": "CRS-000253",
+    "prerequisite_course_id": "CRS-000201",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000048",
+    "course_id": "CRS-000254",
+    "prerequisite_course_id": "CRS-000069",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000049",
+    "course_id": "CRS-000256",
+    "prerequisite_course_id": "CRS-000218",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000050",
+    "course_id": "CRS-000259",
+    "prerequisite_course_id": "CRS-000082",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000051",
+    "course_id": "CRS-000262",
+    "prerequisite_course_id": "CRS-000211",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000052",
+    "course_id": "CRS-000263",
+    "prerequisite_course_id": "CRS-000102",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000053",
+    "course_id": "CRS-000266",
+    "prerequisite_course_id": "CRS-000179",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000054",
+    "course_id": "CRS-000276",
+    "prerequisite_course_id": "CRS-000177",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000055",
+    "course_id": "CRS-000277",
+    "prerequisite_course_id": "CRS-000053",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000056",
+    "course_id": "CRS-000281",
+    "prerequisite_course_id": "CRS-000276",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000057",
+    "course_id": "CRS-000287",
+    "prerequisite_course_id": "CRS-000213",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000058",
+    "course_id": "CRS-000290",
+    "prerequisite_course_id": "CRS-000215",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000059",
+    "course_id": "CRS-000292",
+    "prerequisite_course_id": "CRS-000066",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000060",
+    "course_id": "CRS-000293",
+    "prerequisite_course_id": "CRS-000213",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000061",
+    "course_id": "CRS-000303",
+    "prerequisite_course_id": "CRS-000178",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000062",
+    "course_id": "CRS-000305",
+    "prerequisite_course_id": "CRS-000281",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000063",
+    "course_id": "CRS-000307",
+    "prerequisite_course_id": "CRS-000065",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000064",
+    "course_id": "CRS-000311",
+    "prerequisite_course_id": "CRS-000161",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000065",
+    "course_id": "CRS-000313",
+    "prerequisite_course_id": "CRS-000205",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000066",
+    "course_id": "CRS-000322",
+    "prerequisite_course_id": "CRS-000057",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000067",
+    "course_id": "CRS-000326",
+    "prerequisite_course_id": "CRS-000192",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000068",
+    "course_id": "CRS-000327",
+    "prerequisite_course_id": "CRS-000264",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000069",
+    "course_id": "CRS-000335",
+    "prerequisite_course_id": "CRS-000075",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000070",
+    "course_id": "CRS-000353",
+    "prerequisite_course_id": "CRS-000120",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000071",
+    "course_id": "CRS-000357",
+    "prerequisite_course_id": "CRS-000340",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000072",
+    "course_id": "CRS-000366",
+    "prerequisite_course_id": "CRS-000325",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000073",
+    "course_id": "CRS-000372",
+    "prerequisite_course_id": "CRS-000139",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000074",
+    "course_id": "CRS-000378",
+    "prerequisite_course_id": "CRS-000061",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000075",
+    "course_id": "CRS-000383",
+    "prerequisite_course_id": "CRS-000083",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000076",
+    "course_id": "CRS-000387",
+    "prerequisite_course_id": "CRS-000313",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000077",
+    "course_id": "CRS-000392",
+    "prerequisite_course_id": "CRS-000087",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000078",
+    "course_id": "CRS-000399",
+    "prerequisite_course_id": "CRS-000312",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000079",
+    "course_id": "CRS-000407",
+    "prerequisite_course_id": "CRS-000278",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000080",
+    "course_id": "CRS-000412",
+    "prerequisite_course_id": "CRS-000066",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000081",
+    "course_id": "CRS-000416",
+    "prerequisite_course_id": "CRS-000148",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000082",
+    "course_id": "CRS-000419",
+    "prerequisite_course_id": "CRS-000016",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000083",
+    "course_id": "CRS-000423",
+    "prerequisite_course_id": "CRS-000421",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000084",
+    "course_id": "CRS-000425",
+    "prerequisite_course_id": "CRS-000357",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000085",
+    "course_id": "CRS-000432",
+    "prerequisite_course_id": "CRS-000144",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000086",
+    "course_id": "CRS-000433",
+    "prerequisite_course_id": "CRS-000004",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000087",
+    "course_id": "CRS-000434",
+    "prerequisite_course_id": "CRS-000103",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000088",
+    "course_id": "CRS-000444",
+    "prerequisite_course_id": "CRS-000250",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000089",
+    "course_id": "CRS-000452",
+    "prerequisite_course_id": "CRS-000147",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000090",
+    "course_id": "CRS-000457",
+    "prerequisite_course_id": "CRS-000310",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000091",
+    "course_id": "CRS-000459",
+    "prerequisite_course_id": "CRS-000262",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000092",
+    "course_id": "CRS-000465",
+    "prerequisite_course_id": "CRS-000397",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000093",
+    "course_id": "CRS-000472",
+    "prerequisite_course_id": "CRS-000251",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000094",
+    "course_id": "CRS-000488",
+    "prerequisite_course_id": "CRS-000391",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000095",
+    "course_id": "CRS-000490",
+    "prerequisite_course_id": "CRS-000371",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000096",
+    "course_id": "CRS-000497",
+    "prerequisite_course_id": "CRS-000463",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000097",
+    "course_id": "CRS-000501",
+    "prerequisite_course_id": "CRS-000160",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000098",
+    "course_id": "CRS-000504",
+    "prerequisite_course_id": "CRS-000411",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000099",
+    "course_id": "CRS-000506",
+    "prerequisite_course_id": "CRS-000087",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000100",
+    "course_id": "CRS-000509",
+    "prerequisite_course_id": "CRS-000046",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000101",
+    "course_id": "CRS-000513",
+    "prerequisite_course_id": "CRS-000451",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000102",
+    "course_id": "CRS-000514",
+    "prerequisite_course_id": "CRS-000203",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000103",
+    "course_id": "CRS-000516",
+    "prerequisite_course_id": "CRS-000262",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000104",
+    "course_id": "CRS-000528",
+    "prerequisite_course_id": "CRS-000385",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000105",
+    "course_id": "CRS-000539",
+    "prerequisite_course_id": "CRS-000155",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000106",
+    "course_id": "CRS-000543",
+    "prerequisite_course_id": "CRS-000309",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000107",
+    "course_id": "CRS-000547",
+    "prerequisite_course_id": "CRS-000059",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000108",
+    "course_id": "CRS-000552",
+    "prerequisite_course_id": "CRS-000397",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000109",
+    "course_id": "CRS-000554",
+    "prerequisite_course_id": "CRS-000552",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000110",
+    "course_id": "CRS-000556",
+    "prerequisite_course_id": "CRS-000507",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000111",
+    "course_id": "CRS-000559",
+    "prerequisite_course_id": "CRS-000338",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000112",
+    "course_id": "CRS-000561",
+    "prerequisite_course_id": "CRS-000086",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000113",
+    "course_id": "CRS-000562",
+    "prerequisite_course_id": "CRS-000538",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000114",
+    "course_id": "CRS-000563",
+    "prerequisite_course_id": "CRS-000402",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000115",
+    "course_id": "CRS-000564",
+    "prerequisite_course_id": "CRS-000560",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000116",
+    "course_id": "CRS-000571",
+    "prerequisite_course_id": "CRS-000413",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000117",
+    "course_id": "CRS-000572",
+    "prerequisite_course_id": "CRS-000459",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000118",
+    "course_id": "CRS-000573",
+    "prerequisite_course_id": "CRS-000506",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000119",
+    "course_id": "CRS-000581",
+    "prerequisite_course_id": "CRS-000243",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000120",
+    "course_id": "CRS-000584",
+    "prerequisite_course_id": "CRS-000463",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000121",
+    "course_id": "CRS-000594",
+    "prerequisite_course_id": "CRS-000285",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000122",
+    "course_id": "CRS-000596",
+    "prerequisite_course_id": "CRS-000103",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000123",
+    "course_id": "CRS-000598",
+    "prerequisite_course_id": "CRS-000084",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000124",
+    "course_id": "CRS-000599",
+    "prerequisite_course_id": "CRS-000031",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000125",
+    "course_id": "CRS-000600",
+    "prerequisite_course_id": "CRS-000187",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000126",
+    "course_id": "CRS-000606",
+    "prerequisite_course_id": "CRS-000319",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000127",
+    "course_id": "CRS-000613",
+    "prerequisite_course_id": "CRS-000494",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000128",
+    "course_id": "CRS-000619",
+    "prerequisite_course_id": "CRS-000523",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000129",
+    "course_id": "CRS-000623",
+    "prerequisite_course_id": "CRS-000475",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000130",
+    "course_id": "CRS-000630",
+    "prerequisite_course_id": "CRS-000021",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000131",
+    "course_id": "CRS-000644",
+    "prerequisite_course_id": "CRS-000165",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000132",
+    "course_id": "CRS-000648",
+    "prerequisite_course_id": "CRS-000259",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000133",
+    "course_id": "CRS-000668",
+    "prerequisite_course_id": "CRS-000600",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000134",
+    "course_id": "CRS-000672",
+    "prerequisite_course_id": "CRS-000377",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000135",
+    "course_id": "CRS-000677",
+    "prerequisite_course_id": "CRS-000582",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000136",
+    "course_id": "CRS-000683",
+    "prerequisite_course_id": "CRS-000588",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000137",
+    "course_id": "CRS-000687",
+    "prerequisite_course_id": "CRS-000519",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000138",
+    "course_id": "CRS-000688",
+    "prerequisite_course_id": "CRS-000622",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000139",
+    "course_id": "CRS-000693",
+    "prerequisite_course_id": "CRS-000523",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000140",
+    "course_id": "CRS-000696",
+    "prerequisite_course_id": "CRS-000331",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000141",
+    "course_id": "CRS-000702",
+    "prerequisite_course_id": "CRS-000595",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000142",
+    "course_id": "CRS-000705",
+    "prerequisite_course_id": "CRS-000353",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000143",
+    "course_id": "CRS-000723",
+    "prerequisite_course_id": "CRS-000003",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000144",
+    "course_id": "CRS-000724",
+    "prerequisite_course_id": "CRS-000424",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000145",
+    "course_id": "CRS-000730",
+    "prerequisite_course_id": "CRS-000036",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000146",
+    "course_id": "CRS-000731",
+    "prerequisite_course_id": "CRS-000157",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000147",
+    "course_id": "CRS-000732",
+    "prerequisite_course_id": "CRS-000330",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000148",
+    "course_id": "CRS-000745",
+    "prerequisite_course_id": "CRS-000273",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000149",
+    "course_id": "CRS-000746",
+    "prerequisite_course_id": "CRS-000412",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000150",
+    "course_id": "CRS-000748",
+    "prerequisite_course_id": "CRS-000721",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000151",
+    "course_id": "CRS-000749",
+    "prerequisite_course_id": "CRS-000313",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000152",
+    "course_id": "CRS-000756",
+    "prerequisite_course_id": "CRS-000060",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000153",
+    "course_id": "CRS-000757",
+    "prerequisite_course_id": "CRS-000210",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000154",
+    "course_id": "CRS-000764",
+    "prerequisite_course_id": "CRS-000602",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000155",
+    "course_id": "CRS-000770",
+    "prerequisite_course_id": "CRS-000648",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000156",
+    "course_id": "CRS-000772",
+    "prerequisite_course_id": "CRS-000228",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000157",
+    "course_id": "CRS-000786",
+    "prerequisite_course_id": "CRS-000575",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000158",
+    "course_id": "CRS-000787",
+    "prerequisite_course_id": "CRS-000710",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000159",
+    "course_id": "CRS-000789",
+    "prerequisite_course_id": "CRS-000427",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000160",
+    "course_id": "CRS-000801",
+    "prerequisite_course_id": "CRS-000357",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000161",
+    "course_id": "CRS-000803",
+    "prerequisite_course_id": "CRS-000762",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000162",
+    "course_id": "CRS-000808",
+    "prerequisite_course_id": "CRS-000795",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000163",
+    "course_id": "CRS-000811",
+    "prerequisite_course_id": "CRS-000143",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000164",
+    "course_id": "CRS-000813",
+    "prerequisite_course_id": "CRS-000760",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000165",
+    "course_id": "CRS-000814",
+    "prerequisite_course_id": "CRS-000479",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000166",
+    "course_id": "CRS-000827",
+    "prerequisite_course_id": "CRS-000264",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000167",
+    "course_id": "CRS-000831",
+    "prerequisite_course_id": "CRS-000389",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000168",
+    "course_id": "CRS-000834",
+    "prerequisite_course_id": "CRS-000172",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000169",
+    "course_id": "CRS-000839",
+    "prerequisite_course_id": "CRS-000319",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000170",
+    "course_id": "CRS-000846",
+    "prerequisite_course_id": "CRS-000732",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000171",
+    "course_id": "CRS-000847",
+    "prerequisite_course_id": "CRS-000355",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000172",
+    "course_id": "CRS-000848",
+    "prerequisite_course_id": "CRS-000377",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000173",
+    "course_id": "CRS-000859",
+    "prerequisite_course_id": "CRS-000697",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000174",
+    "course_id": "CRS-000860",
+    "prerequisite_course_id": "CRS-000856",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000175",
+    "course_id": "CRS-000865",
+    "prerequisite_course_id": "CRS-000090",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000176",
+    "course_id": "CRS-000868",
+    "prerequisite_course_id": "CRS-000468",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000177",
+    "course_id": "CRS-000871",
+    "prerequisite_course_id": "CRS-000706",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000178",
+    "course_id": "CRS-000883",
+    "prerequisite_course_id": "CRS-000076",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000179",
+    "course_id": "CRS-000885",
+    "prerequisite_course_id": "CRS-000103",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000180",
+    "course_id": "CRS-000886",
+    "prerequisite_course_id": "CRS-000192",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000181",
+    "course_id": "CRS-000901",
+    "prerequisite_course_id": "CRS-000560",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000182",
+    "course_id": "CRS-000903",
+    "prerequisite_course_id": "CRS-000203",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000183",
+    "course_id": "CRS-000928",
+    "prerequisite_course_id": "CRS-000040",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000184",
+    "course_id": "CRS-000931",
+    "prerequisite_course_id": "CRS-000356",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000185",
+    "course_id": "CRS-000932",
+    "prerequisite_course_id": "CRS-000387",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000186",
+    "course_id": "CRS-000936",
+    "prerequisite_course_id": "CRS-000764",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000187",
+    "course_id": "CRS-000947",
+    "prerequisite_course_id": "CRS-000696",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000188",
+    "course_id": "CRS-000953",
+    "prerequisite_course_id": "CRS-000918",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000189",
+    "course_id": "CRS-000956",
+    "prerequisite_course_id": "CRS-000160",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000190",
+    "course_id": "CRS-000960",
+    "prerequisite_course_id": "CRS-000688",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000191",
+    "course_id": "CRS-000961",
+    "prerequisite_course_id": "CRS-000722",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000192",
+    "course_id": "CRS-000968",
+    "prerequisite_course_id": "CRS-000626",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000193",
+    "course_id": "CRS-000973",
+    "prerequisite_course_id": "CRS-000914",
+    "minimum_level": 1
+  },
+  {
+    "prerequisite_id": "PRE-000194",
+    "course_id": "CRS-000975",
+    "prerequisite_course_id": "CRS-000320",
+    "minimum_level": 5
+  },
+  {
+    "prerequisite_id": "PRE-000195",
+    "course_id": "CRS-000985",
+    "prerequisite_course_id": "CRS-000966",
+    "minimum_level": 2
+  },
+  {
+    "prerequisite_id": "PRE-000196",
+    "course_id": "CRS-000990",
+    "prerequisite_course_id": "CRS-000461",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000197",
+    "course_id": "CRS-000992",
+    "prerequisite_course_id": "CRS-000435",
+    "minimum_level": 3
+  },
+  {
+    "prerequisite_id": "PRE-000198",
+    "course_id": "CRS-000993",
+    "prerequisite_course_id": "CRS-000606",
+    "minimum_level": 4
+  },
+  {
+    "prerequisite_id": "PRE-000199",
+    "course_id": "CRS-000997",
+    "prerequisite_course_id": "CRS-000543",
+    "minimum_level": 4
+  }
+]

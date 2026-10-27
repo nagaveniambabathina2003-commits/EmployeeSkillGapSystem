@@ -1,0 +1,19 @@
+{
+  "generator_version": "1.0.0",
+  "seed": 20261022,
+  "scale": "full",
+  "synthetic_data_only": true,
+  "tables": {
+    "roles": 10,
+    "skills": 500,
+    "employees": 5000,
+    "role_skill_targets": 150,
+    "employee_skills": 50000,
+    "courses": 1000,
+    "course_skills": 1980,
+    "prerequisites": 199,
+    "budgets": 8,
+    "enrollments": 10000,
+    "completions": 2962
+  }
+}

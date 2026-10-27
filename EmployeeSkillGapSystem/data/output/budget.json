@@ -1,0 +1,58 @@
+[
+    {
+        "budget_id": "BUD-Engineering-2026",
+        "department": "Engineering",
+        "fiscal_year": "2026",
+        "allocated_amount": "500000.0",
+        "spent_amount": "0.0"
+    },
+    {
+        "budget_id": "BUD-DataScience-2026",
+        "department": "DataScience",
+        "fiscal_year": "2026",
+        "allocated_amount": "500000.0",
+        "spent_amount": "0.0"
+    },
+    {
+        "budget_id": "BUD-IT-2026",
+        "department": "IT",
+        "fiscal_year": "2026",
+        "allocated_amount": "500000.0",
+        "spent_amount": "0.0"
+    },
+    {
+        "budget_id": "BUD-HR-2026",
+        "department": "HR",
+        "fiscal_year": "2026",
+        "allocated_amount": "500000.0",
+        "spent_amount": "0.0"
+    },
+    {
+        "budget_id": "BUD-Finance-2026",
+        "department": "Finance",
+        "fiscal_year": "2026",
+        "allocated_amount": "500000.0",
+        "spent_amount": "0.0"
+    },
+    {
+        "budget_id": "BUD-Operations-2026",
+        "department": "Operations",
+        "fiscal_year": "2026",
+        "allocated_amount": "500000.0",
+        "spent_amount": "0.0"
+    },
+    {
+        "budget_id": "BUD-Marketing-2026",
+        "department": "Marketing",
+        "fiscal_year": "2026",
+        "allocated_amount": "500000.0",
+        "spent_amount": "0.0"
+    },
+    {
+        "budget_id": "BUD-Product-2026",
+        "department": "Product",
+        "fiscal_year": "2026",
+        "allocated_amount": "500000.0",
+        "spent_amount": "0.0"
+    }
+]

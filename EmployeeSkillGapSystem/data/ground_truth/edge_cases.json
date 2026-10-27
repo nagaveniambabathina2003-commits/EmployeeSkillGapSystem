@@ -1,0 +1,68 @@
+[
+    {
+        "case_id": "EC001",
+        "case_name": "Employee has no assessed skills",
+        "description": "An employee has no recorded skill assessments.",
+        "input": {
+            "required_level": 4,
+            "current_level": 0
+        },
+        "expected_result": {
+            "gap": 4,
+            "priority": "High"
+        }
+    },
+    {
+        "case_id": "EC002",
+        "case_name": "Employee already meets target",
+        "description": "The employee's skill level equals the required level.",
+        "input": {
+            "required_level": 3,
+            "current_level": 3
+        },
+        "expected_result": {
+            "gap": 0,
+            "priority": "None"
+        }
+    },
+    {
+        "case_id": "EC003",
+        "case_name": "Employee exceeds target",
+        "description": "The employee's skill level is higher than the required level.",
+        "input": {
+            "required_level": 2,
+            "current_level": 5
+        },
+        "expected_result": {
+            "gap": 0,
+            "priority": "None"
+        }
+    },
+    {
+        "case_id": "EC004",
+        "case_name": "Maximum proficiency gap",
+        "description": "The employee has the lowest proficiency for a skill with the highest target.",
+        "input": {
+            "required_level": 5,
+            "current_level": 0
+        },
+        "expected_result": {
+            "gap": 5,
+            "priority": "High"
+        }
+    },
+    {
+        "case_id": "EC005",
+        "case_name": "No courses available for missing skill",
+        "description": "The employee has a skill gap, but no course teaches that skill.",
+        "input": {
+            "required_level": 4,
+            "current_level": 1,
+            "matching_courses": 0
+        },
+        "expected_result": {
+            "gap": 3,
+            "recommendation_status": "No matching course"
+        }
+    }
+]
